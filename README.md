@@ -20,9 +20,13 @@ Ejecutar el Servidor Local:
 
 
 1.Iniciar Sesión en Render.
+
 2.En el panel de control de Render, haz clic en Agregar y selecciona "Web Service".
+
 3.Conectar con GitHub.
+
 4.Elige el repositorio que deseas desplegar en Render.
+
 5.En las configuraciones:
 
 # Build comand
