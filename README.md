@@ -1,7 +1,7 @@
 # CASO 4 Backend app de tickets
 
 
-Configuración del Código en un Entorno Local
+# # Configuración del Código en un Entorno Local
 
 Clonar el Repositorio:
   git clone 
