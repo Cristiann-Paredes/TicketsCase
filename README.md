@@ -29,13 +29,15 @@ Ejecutar el Servidor Local:
 
 5.En las configuraciones:
 
-# Build comand
+ Build comand
   npm install
   
-# Start Command
+ Start Command
   npm start
   
-# Configurar Variables de Entorno
+#Configurar Variables de Entorno
+![image](https://github.com/user-attachments/assets/ae1f4cca-a4c5-43b4-9c46-544a36c9e5fc)
+
 
 Guardar en "Create Web Service" y Desplegar
 
